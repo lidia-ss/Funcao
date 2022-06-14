@@ -1,2 +1,2 @@
 # Funcao
-Desafio feito por @Stebsnuch
+Desafios feitos por @Stebsnuch no curso de funções
